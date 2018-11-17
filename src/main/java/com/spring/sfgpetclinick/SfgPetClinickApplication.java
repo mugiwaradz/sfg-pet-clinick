@@ -7,6 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SfgPetClinickApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SfgPetClinickApplication.class, args);
+
+
+        System.out.println("git push");
+        SpringApplication.run(SfgPetClinickApplication.class, args
+
+        );
     }
 }
